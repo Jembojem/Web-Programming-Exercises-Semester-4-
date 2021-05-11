@@ -29,7 +29,7 @@
 
         if (mysqli_num_rows($search) > 0):
         ?>
-            <h1 style="position: absolute; top: 5%; font-size: 70px;">HALL of FAME</h1>
+            <h1 style="position: absolute; top: 5%; font-size: 40px;">HALL of FAME</h1>
             <div class="main" style="height: auto;">
                 <table style="width: 100%; margin: 5px 0; border-spacing: 10px; height: 100%;  ">
 	            <tr>
